@@ -18,8 +18,7 @@ The analysis focused on identifying repeat customers and their contribution to s
         - Both sales and orders were analyzed to identify customers contributing the most in both metrics.
         - The top 10 customers were visualized using a dual-axis bar chart, revealing key individuals who are both frequent buyers and high spenders.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/90ba4710-5d58-41f1-b94c-712185505986/478c2b3d-29a9-4f4e-a744-8877b7f129a9/image.png)
-
+![Alt Text](images/customer_loyalty.png)
 ### **2. Descriptive Analysis of Sales**
 
 - **Overview**:
